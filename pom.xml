@@ -53,7 +53,7 @@
               <goal>generate</goal>
             </goals>
             <configuration>
-              <projectName>OBRestAssuredBdd</projectName>
+              <projectName>cucumber_spring</projectName>
               <outputDirectory>${project.build.directory}/cucumber-JVM-reports</outputDirectory>
               <cucumberOutput>${project.build.directory}/cucumber.json</cucumberOutput>
               <buildNumber></buildNumber>
