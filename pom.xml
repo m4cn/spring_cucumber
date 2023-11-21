@@ -8,10 +8,10 @@
     <version>3.1.2</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.hp</groupId>
-  <artifactId>ob</artifactId>
+  <groupId>com.test</groupId>
+  <artifactId>cs</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>ob</name>
+  <name>cs</name>
   <build>
     <defaultGoal>install</defaultGoal>
     <!-- Source directory configuration -->
