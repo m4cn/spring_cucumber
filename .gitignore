@@ -1,0 +1,29 @@
+# eclipse
+.project
+.classpath
+.settings
+
+# IntelliJ
+.idea
+*.iml
+*.ipr
+*.iws
+
+# binary
+
+target
+out
+bin
+build/
+test-output
+node_modules
+allure-results
+junit_report
+_latest
+
+# misc
+*.log
+.gradle
+.DS_Store
+*.class
+filename.*
