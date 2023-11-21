@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="OBRestAssuredBdd" parallel="tests" thread-count="5">
-  <test name="OBRestAssuredBdd">
+<suite name="spring_cucumber" parallel="tests" thread-count="5">
+  <test name="spring_cucumber">
     <classes>
-      <class name="test.java.com.hp.ob.TestRunner"/>
+      <class name="test.java.com.test.TestRunner"/>
     </classes>
   </test>
 </suite>
